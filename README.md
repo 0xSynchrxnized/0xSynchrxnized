@@ -1,5 +1,4 @@
-https://github.com/user-attachments/assets/89b4a370-a155-45ba-a204-cf68c908fe2b
-
+![ezgif-8e77d24668e0cf](https://github.com/user-attachments/assets/eae02f93-28e3-4fcc-815b-70190de1d448)
 
 <!--
 **0xSynchrxnized/0xSynchrxnized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

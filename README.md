@@ -1,4 +1,5 @@
-<img width="700" height="688" alt="unknown" src="https://github.com/user-attachments/assets/c8ef8e05-3646-44ff-bfc4-1158118a9f90" />
+https://github.com/user-attachments/assets/89b4a370-a155-45ba-a204-cf68c908fe2b
+
 
 <!--
 **0xSynchrxnized/0xSynchrxnized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
